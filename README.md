@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning full mern stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/adrija-dey/
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+
 
 <!---
 Adrijaadeey/Adrijaadeey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
